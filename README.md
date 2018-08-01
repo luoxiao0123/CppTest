@@ -1,2 +1,2 @@
 # CppTest
-The answer to the second question in past paper of IC::MSc in CS::IntroToC++
+The answer to questions in past paper of IC::MSc in CS::IntroToC++
